@@ -1,0 +1,26 @@
+# Goland project specific files
+.idea/
+*.iml
+out/
+
+# Go specific files
+bin/
+pkg/
+vendor/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+Godeps/
+vendor/
+
+# Go workspace file
+go.work
+
+# env file
+.env
